@@ -1,9 +1,9 @@
 SELECT * FROM tabelaprodutosdesafioaula1;
 
 -- Encontrar produtos mais caros (150)
-SELECT * from tabelaprodutosdesafioaula1
+´´´´SELECT * from tabelaprodutosdesafioaula1
 ORDER BY preco_unitario DESC
-LIMIT 1;
+LIMIT 1;´´´´
 
 -- Produto mais barato (70,75)
 SELECT * FROM tabelaprodutosdesafioaula1
