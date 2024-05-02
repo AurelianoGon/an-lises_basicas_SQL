@@ -2,7 +2,7 @@
 # Tabela de produtos 
 
 ## Descrição
-"Este projeto tem como propósito a realização de testes com consultas básicas e frequentemente utilizadas no dia a dia. 
+Este projeto tem como propósito a realização de testes com consultas Básicas e frequentemente utilizadas no dia a dia. 
 Para esse fim, foi escolhido um banco de dados simples, com um volume de dados reduzido em comparação aos bancos de dados empresariais."
 
 ## Estrutura do Banco de Dados
